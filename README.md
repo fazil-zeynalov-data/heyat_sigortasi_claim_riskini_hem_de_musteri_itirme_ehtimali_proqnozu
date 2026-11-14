@@ -1,4 +1,4 @@
-# 🏥 PASHA Həyat - Fərdi Risk və Tarifləşdirmə (Data Science Layihəsi)
+# 🏥 Fərdi Risk və Tarifləşdirmə (Data Science Layihəsi)
 
 ## 📌 Layihə Haqqında
 Bu layihə sığorta şirkətləri üçün **maşın öyrənməsi (Machine Learning)** əsaslı fərdi risk qiymətləndirməsi və tarifləşdirmə sistemidir. Ənənəvi aktuar modellərini qabaqcıl süni intellekt alqoritmləri ilə əvəz edərək, həm müştəri məmnuniyyətini artırmaq, həm də şirkətin gəlirliliyini qorumaq məqsədi daşıyır.
